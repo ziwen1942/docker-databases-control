@@ -1,0 +1,40 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@bugfeel-database.novalocal>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .Xauthority
+#	new file:   .bash_history
+#	new file:   .bashrc
+#	new file:   .cache/motd.legal-displayed
+#	new file:   .profile
+#	new file:   .ssh/authorized_keys
+#	new file:   .viminfo
+#	new file:   bugfeel.sql
+#	new file:   bugfeel/1
+#	new file:   bugfeel/AutoDeploy4BugFeel
+#	new file:   bugfeel/bugfeel.sql
+#	new file:   bugfeel/c1.sh
+#	new file:   bugfeel/deploy/.txt
+#	new file:   bugfeel/deploy/create_user.sh
+#	new file:   bugfeel/deploy/history
+#	new file:   bugfeel/deploy/mysql.conf
+#	new file:   bugfeel/employees.sql
+#	new file:   bugfeel/group.sh
+#	new file:   bugfeel/random_character.sh
+#	new file:   bugfeel/random_number.sh
+#	new file:   bugfeel/setout.sh
+#	new file:   create_user.sh
+#	new file:   group.sh
+#	new file:   history
+#	new file:   jcp.txt
+#	new file:   mysql.conf
+#	new file:   setout.sh
+#	new file:   ziwen.txt
+#

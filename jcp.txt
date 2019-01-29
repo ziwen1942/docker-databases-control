@@ -1,0 +1,5 @@
+user=root
+docker_name=bugfeel_w2yL
+volume_name=db_w2yL
+password=ccfhuF6itU
+port=38816

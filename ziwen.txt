@@ -1,0 +1,5 @@
+user=root
+docker_name=bugfeel_jba4
+volume_name=db_jba4
+password=S10I28NSsT
+port=36638
